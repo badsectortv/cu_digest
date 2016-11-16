@@ -1,0 +1,1244 @@
+SUBJECT INDEX TO Cu DIGEST - VOL 9: 9.01 through 9.92 (1997)
+
+              ======================================
+
+Computer underground Digest    Thu  Jan 2, 1997   Volume 9 : Issue 01
+                           ISSN  1004-042X
+File 1--CLO#21-Negotiating the end of the millennium
+File 2--Jenott case: More gossip, so-called criminal hacker stuff
+File 3--Soldier Innocent of Giving Secret Code to Chinese
+File 4--Crack5: ANNOUNCE: Daily Telegraph Article (fwd)
+File 5--BoS: Phrack 49 (fwd)
+File 6--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Jan 4, 1997   Volume 9 : Issue 02
+                           ISSN  1004-042X
+File 1--Re: FBI Law & Enforcement Bulletin gulled by 'Net joke (fwd)
+File 2--The First 10 Seconds After The Big Bang
+File 3--Re:  File 3--EDITORIAL: Troubles On The Net...
+File 4--Re: "News.groups reform"
+File 5--Teen Takes on CYBERsitter (From NetAction Notes #10)
+File 6--CWD--Howling at the Moon
+File 7--The CyberSitter Diaper Change, from The Netly News
+File 8--[krb5] krb5 v1.0 is released (fwd)
+File 9--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Jan 12, 1997   Volume 9 : Issue 03
+                           ISSN  1004-042X
+File 1--AOL hax0rs beware  (fwd)
+File 2--AOL: The Happy Hacker (fwd)
+File 3--Morality of Undoing Blocking Software
+File 4--Run for the hills! Virulent Shergold meme escapes cyberspace!
+File 5--Crypt News forces correction in FBI newsletter
+File 6--7th Computers, Freedom & Privacy Conf - Mar.11-14
+File 7--Foreign spies snoop the Net, from The Netly News
+File 8--Soliciting a Child via Computer now a Crime in Illinois
+File 9--Re: Cu Digest, #8.93 (xchaotic Xmas e-bombings)
+File 10--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Jan 19, 1997   Volume 9 : Issue 04
+                           ISSN  1004-042X
+File 1--Solid Oak Blocking Software & Ethical Spectacle
+File 2--IP: going to InfoWar (fwd)
+File 3--If Operating Systems Were Airlines (fwd)
+File 4--Sidgmore/PC Week (on Growth of UUNET Backbone) (fwd)
+File 5--Internet Forum In Italy Subjected To Censorship
+File 6--GovAcc97.002: 7th Conference on Computers, Freedom & Privacy
+File 7--ALA/ACLU file lawsuit challenging New York "CDA" law
+File 8--Enough is Never Enough -- pro-CDA alliances, from TNNN
+File 9--SUPREMES: Court Date Set, DoJ Brief Filed
+File 10--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Jan 26, 1997   Volume 9 : Issue 05
+                           ISSN  1004-042X
+File 1--Cyberangels: "Snoop Through Your Kids' Mail"
+File 2--Decision in Karn Crypto case
+File 3--SUPREMES: What Will They Decide?
+File 4--Just Say No to Telcom "Reform"
+File 5--Cybersitter hires the Terminator
+File 6--[Fwd: You too can be blocked by Cybersitter]
+File 7--The Babysitting Brouhaha in Cu Digest, #9.02
+File 8--Net.prognostication from Canada
+File 9--cDc GD Update #21-1/97
+File 10--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Feb 2, 1997   Volume 9 : Issue 06
+                           ISSN  1004-042X
+File 1--USR's little booboo (fwd)
+File 2--ISOC 97 SYMP NETWORK & DISTRIBUTED SYSTEM SEC'Y (2nd anncmnt)
+File 3--InfoWarCon6 - Brussels, Belgium (fwd)
+File 4--Call for papers:  6CYBERCONF
+File 5--DC-ISOC Tidbits
+File 6--"DNS and BIND," and "Mastering Regular Expressions"
+File 7--"The Basics of Computer Security" by Bellcore
+File 8--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Feb 5, 1997   Volume 9 : Issue 07
+                           ISSN  1004-042X
+File 1--Re - Internet Forum in Italy (CuD 9.04)
+File 2--Court upholds Internet case as free speech (fwd)
+File 3--Christopher Schanot sentenced in St. Louis
+File 4--Cybersitter & Wallace
+File 5--PROTEST: "Remember the Blackout"
+File 6--Panel - Copyright and the Net: Is Legislation the Answer?
+File 7-- The (1997) 7th Conference on Computers, Freedom, and Privacy
+File 8--The Information Superhighway Transportation System
+File 9--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Feb 9, 1997   Volume 9 : Issue 08
+                           ISSN  1004-042X
+File 1--LAWSUIT: Case Filed with "Intent to Annoy"
+File 2--"Hacking Chinatown"
+File 3--An Auschwitz Alphabet (In re Milburn/Solid Oak)
+File 4--CyberLex -(Summary of legal issues)  Updated 1/97 (fwd)
+File 5--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Feb 16, 1997   Volume 9 : Issue 09
+                           ISSN  1004-042X
+File 1--Cyber Angels FACES Project
+File 2--FYI: "Contributory copyright infringement"
+File 3--Re: "Hacking Chinatown"
+File 4--Coalition Letter on Privacy and Airline Security
+File 5--BELLSOUTH CHALLENGES AT&T ACCESS CHARGE PROPOSAL (fwd)
+File 6--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Feb 19, 1997   Volume 9 : Issue 10
+                           ISSN  1004-042X
+File 1--Moldova Internet Scam
+File 2--Clipper is dead, as we knew all along...
+File 3--Re: Cu Digest, #9.09, Sun 16 Jan 97
+File 4--Re: The Guardian Angels' The Face Project
+File 5--Cyberpatrol  now blocks my site
+File 6--Internic DNS glitches
+File 7--TIIAP Announces Availability of 1997 Funds
+File 8--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Feb 23, 1997   Volume 9 : Issue 11
+                           ISSN  1004-042X
+File 1--SUPREMES: CIEC Brief Filed (CDA news)
+File 2--Eleven CDA briefs filed: "Last Words," from The Netly News
+File 3--info on abuse.net
+File 4--(Fwd) conference - policing the internet, report
+File 5--Sanford Wallace (the "Spam King") to Start Own Spam Service
+File 6--Cyber Promotions, Evil, Evil, EVIL
+File 7--Press release: Metaphor brief filed in CDA case
+File 8--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Feb 26, 1997   Volume 9 : Issue 12
+                           ISSN  1004-042X
+File 1--PROFS Case: Public Citizen V Carlin 12/23/96
+File 2--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Fri  Feb 28, 1997   Volume 9 : Issue 13
+                           ISSN  1004-042X
+File 1--ITALY: PEACELINK COORDINATOR SENTENCED TO JAIL
+File 2--CyberPatrol
+File 3--Re: Boston Public Library query
+File 4--Concerns with www.reference.com
+File 5--More problems with the Cyber Patrol software
+File 6--Maryland E-Mail BILL (fwd)
+File 7--Calif Law and Blocking Software in Schools
+File 8--CLO #22 "Your clickstream is showing"
+File 9--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Mar 2, 1997   Volume 9 : Issue 14
+                           ISSN  1004-042X
+File 1--CyberAngels - more info from Colin ("Gabriel") Hatcher
+File 2--CYBERANGELS FACE PROJECT
+File 3--Netpics Interviewed after FW Arrests - Tx Telecom Jrnl (fwd)
+File 4--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Mar 5, 1997   Volume 9 : Issue 15
+                           ISSN  1004-042X
+File 1--Childporn: Guardian Angels, Netpics
+File 2--Cu Digest, #9.14, Sun 2 Mar 97--Childporn: Guardian Angel
+File 3--CYBERANGELS FACE PROJECT
+File 4--CyberAngles Faces project: CuD #9.14, Sun Mar 2, 1997
+File 5-- CUD Submission in reply to CuD 9.14  Guardian Angels
+File 6--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Thu  Mar 6, 1997   Volume 9 : Issue 16
+                           ISSN  1004-042X
+File 1--another CDA brief...
+File 2--imapd and ipop3d hole (fwd)
+File 3--Hacker Challenges Dark Side Book (fwd)
+File 4--Hacking and international law
+File 5--Bell-Atl NYNEX Mobile See's 70% Decrease In Fraud Losses
+File 6--Higher & Deeper: John Seabrook's CSi book tour
+File 7--Novell & Microsoft Win Piracy Suit with Final Frontier BBS
+File 8--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Mar 9, 1997   Volume 9 : Issue 17
+                           ISSN  1004-042X
+File 1--Computer Security Script and Software Database
+File 2--EFF-Online 10.02-Burns introduces new Pro-CODE Crypto Bill
+File 3--    Open Internet Policy Principles
+File 4--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Tue  Mar 11, 1997   Volume 9 : Issue 18
+                           ISSN  1004-042X
+File 1--Purchase of Blocking Software by Public Libraries Unconstitutional
+File 2--Dan Kennedy, COCK HUNGRY TEENS, and cyberlibertarianism
+File 3--Joab Jackson on Maryland online "harassment" bill, from BaltCP
+File 4--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Thu  Mar 11, 1997   Volume 9 : Issue 19
+                           ISSN  1004-042X
+File 1--SUPREMES: The Countdown Begins
+File 2--Junk Mail
+File 3--Book Review - The Secret Museum
+File 4--** >= Ascend 5.0A SECURITY ALERT ** (fwd)
+File 5--Pedophiles on the Net (fwd)
+File 6--Response to CyberAngels FACE Project
+File 7--CyberAngels' Noble Activity
+File 8--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Mar 16, 2097   Volume 9 : Issue 20
+                           ISSN  1004-042X
+File 1--State of the Japanese Internet, 1997
+File 2--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Mar 19, 1997   Volume 9 : Issue 21
+                           ISSN  1004-042X
+File 1--Cyber Angels' Antiporn ("FACES") Database Dies (From WIRED)
+File 2--Apologies for  Duplicates of the last issue
+File 3--STUDY ON CONTENT-RELATED INTERNET LIABILITY
+File 4--Japanese Internet Users May Need Magician
+File 5--InfoWarCon 7 ~~ Call for Papers ~~ (fwd)
+File 6--Re - Maryland online "harassment" bill
+File 7--Coos Bay search and seizure
+File 8--Re: File 6--Cyber Promotions, Evil, Evil, EVIL
+File 9--Re: CuD 9.15 - "Do-Gooders" ??
+File 10--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Fri  Mar 21, 1997   Volume 9 : Issue 22
+                           ISSN  1004-042X
+File 1--SUPREMES: Report From the Protest Lines
+File 2--SUPREMES: Reports from the Netizen; Netly News
+File 3--SUPREMES: Pointers to Transcript, More Coverage
+File 4--Reno v. ACLU SupCt Transcript online
+File 5--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Mar 23, 1997   Volume 9 : Issue 23
+                           ISSN  1004-042X
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Tue  Mar 25, 1997   Volume 9 : Issue 24
+                           ISSN  1004-042X
+File 1--Coup-d-etat on the Internet around Usenet hierarchy ?
+File 2--SANS Network Security Digest vol.1, No.2
+File 3--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Thu  Mar 27, 1997   Volume 9 : Issue 25
+                           ISSN  1004-042X
+File 1--A Country goes Offline (Austria) (fwd)
+File 2--The creation of gov.* is NOT a cause for worry
+File 3--Re: Coup-d-etat on the Internet (CuD 9.24)
+File 4--WEBPOSSE ROUNDS UP PORN OUTLAWS
+File 5--Researchers crack cell phone cipher
+File 6--end of the road for PK encryption in the UK? (fwd)
+File 7--Who will control the Net? Problems with RSACi
+File 8--Cambodia receives Internet connectivity
+File 9--Network Solutions hit with suit from C/Net
+File 10--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Mar 30, 1997   Volume 9 : Issue 26
+                           ISSN  1004-042X
+File 1--SUMMERCON 97 (fwd)
+File 2--[HIP] ("hacking in progress") - How you can help
+File 3--Reps. White and Bliley: requesting comments on crypto policy
+File 4--COMMENTARY: Katz on Kids and the CDA
+File 5--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Apr 6, 1997   Volume 9 : Issue 27
+                           ISSN  1004-042X
+File 1-- OECD releases Crypto Guidlines
+File 2--OECD Guidlines Released
+File 3--The Zimmermann Telegram
+File 4--Moynihan Commission hoisted on petard of Penpal hoax
+File 5--Rep. Rick White to hold live online town hall meeting 4/10
+File 6--UPDATE: Computer Security Script Database
+File 7--Cu Digest Header Info (unchanged since 1 Apr, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Apr 9, 1997   Volume 9 : Issue 28
+                           ISSN  1004-042X
+File 1--Suicide, The Net and MCI
+File 2--Heaven Gate - A Formal (HTML)  Autopsy
+File 3--"Response to K. Arromdee"
+File 4--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Apr 13, 1997   Volume 9 : Issue 29
+                           ISSN  1004-042X
+File 1--CYBERDAWG BARKING: Freedom...
+File 2--"Child Safety on the Internet" by Distefano
+File 3--SANS Network Security Digest (excerpts--Microsoft & Solaris)
+File 4--WebSite & Backstage Internet Studio
+File 5--Cokie Roberts on How Internet Is Ruining Rep Government
+File 6--Responses to Cokie Roberts' column on the Net and government
+File 7--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Apr 16, 1997   Volume 9 : Issue 30
+                           ISSN  1004-042X
+File 1--Responses to Cokie Roberts' column on the Net and government
+File 2--Re: CuD, #9.29 - More Responses to Cokie Roberts
+File 3--Internet, Telephones, and Duct Tape (More on Roberts)
+File 4--Re: CuD, #9.29, Sun 13 Apr 97, Cokie Roberts, et al.
+File 5--Brock Meeks vs. Cokie Roberts (fwd)
+File 6--Cu Digest Header Info (unchanged since 15 Apr, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Apr 20, 1997   Volume 9 : Issue 31
+                           ISSN  1004-042X
+File 1--XT clone for donation or sale (Sun Devil Redux)
+File 2--ACLU Cyber-Liberties Update
+File 3--Technology and Society (from NETFUTURE #45)
+File 4--Texas ISPs Targed in Secessionist Case
+File 5--Crack DES Challenge
+File 6--(Fwd) A listserv joke
+File 7--Family-Friendly Internet Access Act of 1997
+File 8--Cu Digest Header Info (unchanged since 13 Apr, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Tue  Apr 23, 1997   Volume 9 : Issue 32
+                           ISSN  1004-042X
+File 1--Thunderclouds on the Net's Horizon
+File 2--Reception of radio B92 affected by block on XS4All
+File 3--Letter to DFN, organisation that is censoring xs4all webserver
+File 4--Groups Protest German Compuserve Prosecution
+File 5--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Apr 28, 1997   Volume 9 : Issue 33
+                           ISSN  1004-042X
+File 1--Wired news: German Network Lifts Ban on Dutch ISP (fwd)
+File 2--Effective blockade on the Internet impossible (AP newswire)
+File 3--HACK - Censorship as system failure; route around...
+File 4--Demand letter - Milburn v. Hasselton??
+File 5--Fwd: More news about DES...
+File 6--NSF out of DNS, what comes next?
+File 7--Texas CyberWar - Tx Telecom Jrnl (fwd)
+File 8--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  May 4, 1997   Volume 9 : Issue 34
+                           ISSN  1004-042X
+File 1--Legal Bytes 5. - CyberLaw Info
+File 2--Cu Digest Header Info (unchanged since 13 Dec, 1996)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  May 7, 1997   Volume 9 : Issue 35
+                           ISSN  1004-042X
+File 1--ALA awaits Supreme Court decision before addressing filtering
+File 2--Digital Blocks Alternate Vista
+File 3--AOL Users In Britain Warned of Surveillance
+File 4--NSF out of DNS, what comes next?
+File 5--Re: "Response to K. Arromdee"
+File 6--More  material and index to articles
+File 7--FCC Universal Service Hearing Live on the Net
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  May 11, 1997   Volume 9 : Issue 36
+                           ISSN  1004-042X
+File 1--Credit  Card Numbers put Online?? (fwd)
+File 2--Jim Tyre responds to CyberSitter's Brian Milburn
+File 3--TV interview w/2 hackers banned from computers
+File 4--Fwd: intellectual property and graduate students
+File 5--Georgia expands the "Instruments of Crime"
+File 6--More on Gov't Goofs on Virus Hoaxes (Crypt Reprint)
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  May 14, 1997   Volume 9 : Issue 37
+                           ISSN  1004-042X
+File 1--FBI requests comments on wiretap law implementation
+File 2--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Tue  May 20, 1997   Volume 9 : Issue 38
+                           ISSN  1004-042X
+File 1--"Electronic Democracy" by Browning
+File 2--Bob Chatelle's letter to the Boston Globe
+File 3--Ethical Spectacle Mirrors Banned Canadian Site
+File 4--MSNBC on The Internet Launches New Interactive Applications
+File 5--INTERPORT STRIVES TO HELP THOSE THAT HELP OTHERS
+File 6--Why SUNY-Binghamton should stop censoring "mirrors"
+File 7--[SF Chronicle] SUNY campus bans rebel web pages
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  May 26, 1997   Volume 9 : Issue 39
+                           ISSN  1004-042X
+File 1--HACK - Texas Driver's License database on the web
+File 2--PI/GILC UK Crypto Conference Cybercast
+File 3--EX-VIRUS WRITER CLINT HAINES DIES OF OVERDOSE AT 21
+File 4--Last parts of  stories and query about status
+File 5--Interactive ACT-UP Civil Disobedience Training Online
+File 6--Cyberculture Studies (fwd)
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  May 29, 1997   Volume 9 : Issue 40
+                           ISSN  1004-042X
+File 1--Fiber Keeps Its Promise - George Gilder Essay
+File 2--FBI arrests alleged hacker-for-profit
+File 3--HACK - Texas Driver's License database on the web
+File 4--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Fri  May 31, 1997   Volume 9 : Issue 41
+                           ISSN  1004-042X
+File 1--Spam-fighter Spammed (Jim Youll saga) (fwd)
+File 2--Story of E-Mail Bomb Suit
+File 3--Text of E-Mail Bomb Suit Complaint
+File 4--SF Internet Abuse Suit Filed
+File 5--AGIS says "No More Spam"?
+File 6--TEXANS SUE TO RECOVER DAMAGES FOR INTERNET "SPAM"
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  June 1, 1997   Volume 9 : Issue 42
+                           ISSN  1004-042X
+File 1--Color CuD Spam!
+File 2--Germany "cybercops" battle offensive speech, violent games
+File 3--article on WEB TV and the stupidification of computers
+File 4--Survey says "Censor!"
+File 5--(CwD-Meeks) -Jacking in from "Media Elite Eat To the Beat" Port
+File 6--Review of: SENDMAIL (Second Edition)
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  June 8, 1997   Volume 9 : Issue 43
+                           ISSN  1004-042X
+File 1--Alert: Two Anti-Spam Bills in Congress; One Good, One Bad
+File 2--Text of S. 771 (Senate version of Anti-Spam bill)
+File 3--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Tue  June 10, 1997   Volume 9 : Issue 44
+                           ISSN  1004-042X
+File 1--Sen Murkowski's comments on S 771 (anti-spam bill)
+File 2--NASA Nabs Teen Computer Hacker
+File 3--Phil Zimmermann on PGP's future, lawsuits, next steps
+File 4-- TEXANS SUE TO RECOVER DAMAGES FOR INTERNET "SPAM"
+File 5--Purpose of CuD
+File 6--Re: Germany "cybercops" battle offensive speech, violent games
+File 7--RE: Anti-Spam bills....
+File 8--Invitation - Interop Security Teleconference
+File 9--Beyond Hope "Hackers Conference" '97
+File 10--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Thu  June 12, 1997   Volume 9 : Issue 45
+                           ISSN  1004-042X
+File 1-- Attack against Decoder (english)  (FWD)
+File 2--Islands in the Clickstream
+File 3--'Amateur Action' update
+File 4--Ready, aim, fire!
+File 5--Re: Mass-CuD Problem Solved (we hope)
+File 6--"Java Fundamental Classes Reference" from O'Reilly
+File 7--U.S. Agriculture Dept. web site closed after security breach
+File 8--French Internet Suit Dismissed
+File 9--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  June 15, 1997   Volume 9 : Issue 46
+                           ISSN  1004-042X
+File 1--CFP: Symposium on Network and Distributed System Security (fwd)
+File 2--DC-ISOC Meeting This Monday (Internet Gridlock ?)
+File 3--Upcoming Computer Policy and Law Program
+File 4--Sequel/Internet Monitoring at NetSec
+File 5--SSA Privacy Forum 6.16.97
+File 6--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  June 18, 1997   Volume 9 : Issue 47
+                           ISSN  1004-042X
+File 1--HACKERS SMASH U.S. GOVERNMENT ENCRYPTION STANDARD
+File 2--Hacker may have stolen JonBenet computer documents
+File 3--Mitnick gets 22 months
+File 4--Judge denies Mitnick computer access
+File 5--  Hacker Vows 'Terror' for Child Pornographers
+File 6--Trial Opens IN On-line Kidnapping Case
+File 7--Call for Open Global Net
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  June 22, 1997   Volume 9 : Issue 48
+                           ISSN  1004-042X
+File 1--Georgia Internet Regulations Ruled Unconstitutional
+File 2--Islands in the Clickstream
+File 3--Re CuD 9.46 - Blocking Software and Germany
+File 4--McCain speaks out on S. 909
+File 5--New York Judge Prohibits State Regulation of Internet
+File 6--Response to "Purpose of CuD"
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Tue  June 24, 1997   Volume 9 : Issue 49
+                           ISSN  1004-042X
+File 1--Senate Votes to Block Bomb-Making Info
+File 2--PGP: Breaking the Crypto Barrier
+File 3--ACLU Cyber-Liberties Update, June 19, 1997
+File 4--Notes from the Underground: 2 interviews with Se7en
+File 5--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Thu  June 26, 1997   Volume 9 : Issue 50
+                           ISSN  1004-042X
+File 1--USSC Upholds CDA Overturning (AP first report)
+File 2--Syllabus of Supreme Court CDA Decision
+File 3--EFF press release on CDA Decision
+File 4--Plaintiff welcomes result in CDA case
+File 5--CDA: It's Not Over Yet
+File 6--Cato praises Supreme Court CDA Decision
+File 7--Family Research Council on CDA decision
+File 8--White House Statement on CDA Decision
+File 9--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  June 29, 1997   Volume 9 : Issue 51
+                           ISSN  1004-042X
+File 1--The Work Has Just Begun
+File 2--The CDA and SafeKids.COM
+File 3--Extinguishing the CDA Fire
+File 4--AskAsia Covers Hong Kong Handover
+File 5-- CyberWire Dispatch Award for Meeks (fwd)
+File 6--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  July 2, 1997   Volume 9 : Issue 52
+                           ISSN  1004-042X
+File 1--Federal Court invalidates Georgia anonymity law
+File 2--Database Protection (fwd/Computer Law Observer)
+File 3--ACLU Cyber-Liberties Update, June 19, 1997
+File 4--CyberSitter threatens critics for linking, infringement
+File 5--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  July 6, 1997   Volume 9 : Issue 53
+                           ISSN  1004-042X
+File 1--Cap'n Crunch Site Now Moved
+File 2--Mitnick's computer/wireless ban
+File 3--DARK SIDE OF FORCE HITS USENET AS STARWARS DISCUSSION BANNED
+File 4--Common Sense and Cyberspace
+File 5--If Klingons Developed Software
+File 6--Re:  Purpose of CuD - #9.44,
+File 7--Creative Writing, Brock Meeks-style
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Tue  July 8, 1997   Volume 9 : Issue 54
+                           ISSN  1004-042X
+File 1--CyberPromo/Wallace meet the Hormel Spammers (fwd)
+File 2--(Fwd) Spam Lawsuit
+File 3--Solid Oak's response to "G-17 error"
+File 4-- Re: CYBERsitter problems
+File 5--Islands in the Clickstream
+File 6--HIGH CONCEPT VIRUS FILM IN PRODUCTION
+File 7--book on hacker cult/underground.
+File 8--Underground extract: System X
+File 9--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Thu  July 10, 1997   Volume 9 : Issue 55
+                           ISSN  1004-042X
+File 1--Internet Law Heads-Up
+File 2--(fwd) Porn and the Liability of Internet Providers
+File 3--Green Card Spammer Laurence Canter Disbarred in Tennessee
+File 4--Star Wars, Fanfiction, and Big Eight Newsgroup Creation
+File 5--U.S. Justice Dept. Investigating Network Solutions
+File 6--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  July 13, 1997   Volume 9 : Issue 56
+                           ISSN  1004-042X
+File 1--Cyber Patrol Bans Crpyt Newsletter
+File 2--ALA Council Resolution on the Use of Filtering Software
+File 3--An Economic Basis for SPAM Control
+File 4--French "English Only" Web Site Suit Dismissed
+File 5--UFOs and the Net (fwd Islands in the Clickstream)
+File 6--Oil City Officials Worry About Link To Web Page
+File 7--Call for Commentaries on CuD Special Issue of Net & Education
+File 8--Star Wars, Fanfiction, and Big Eight Newsgroup Creation
+File 9--Anti-solicitation laws and anti-spam "opt-in" mailing lists
+File 10--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  July 20, 1997   Volume 9 : Issue 57
+                           ISSN  1004-042X
+File 1--USACM & IEEE-USA Letter on S. 909 (fwd)
+File 2--CFP '98 Request for Proposals
+File 3--Some Legal Advice for beyondHOPE Conferees
+File 4--Some humor on media hacks and hackers
+File 5--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  July 23, 1997   Volume 9 : Issue 58
+                           ISSN  1004-042X
+File 1--Apps for Domain Name Registration (iPOC fwd)
+File 2--NYC - Hackers Convention - BeyondHOPE
+File 3--Cellular Tracking Technologies
+File 4--Cybercrime Conference Announcement
+File 5--More on IGC/Basque Censorship Issue
+File 6--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  July 27, 1997   Volume 9 : Issue 59
+                           ISSN  1004-042X
+File 1--Paul Taylor's Forthcoming "Hacker" Book (excerpt)
+File 2--Chapter 6 of P. Taylor's book - "Them and Us"
+File 3--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  July 30, 1997   Volume 9 : Issue 60
+                           ISSN  1004-042X
+File 1--EPIC letter to CNET.COM and the Internet Community
+File 2--SA on filtering software
+File 3--Annoy.com Parent Accuses Gov't of Violating 1A (fwd)
+File 4--Electronic Frontiers Australia Petition
+File 5--Pithy article re IGC attached below
+File 6--America Online Backs Off Plan (NYT Excerpt)
+File 7--Letter from AOL's Steve Case to Members
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Aug 10, 1997   Volume 9 : Issue 61
+                           ISSN  1004-042X
+File 1--CuD took a Break while Weber went down for Maintenance
+File 2--Samsung's Cease And Desist Flaming (fwd)
+File 3--"Vonnegut Speech" a Hoax - It was a Mary Schmich column
+File 4--Re: The irony of the Tin Drum
+File 5--Computers and the Law IV Symposium
+File 6--Hacking Considered Constructive
+File 7--Letter to AOL on "proposed censorship summit with rad-right"
+File 8--Review - "A Gift of Fire" by Baase
+File 9--Janet Reno's comments on Encryption
+File 10--Crime and Crypto: A Report Shaded Gray (Wired excerpt)
+File 11--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Aug 17, 1997   Volume 9 : Issue 62
+                           ISSN  1004-042X
+File 1--Jacking in from the "Slam the Spam" Port (CyberWire Disp)
+File 2--Islands in the Clickstream: Sex, Religion and Cyberspace
+File 3--CIVIL LIB GROUPS ASK FCC TO BLOCK FBI ELEC SURVEIL. PROPOSAL
+File 4--HOPE On A Rope, report from NYC hacker convention, from Netly
+File 5--The extent of spam
+File 6--ACLU Cyber-Liberties Update, August 7, 1997
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Aug 24, 1997   Volume 9 : Issue 63
+                           ISSN  1004-042X
+File 1--AOL May Track User Clicks (fwd)
+File 2--CONTACT (from Islands in the Clickstream)
+File 3--When you do this, don't forget your friends! (fwd)
+File 4--Small correction on CuD, re _The Tin Drun_
+File 5--Post-Modern Politically Correct Unix: [FYI: no reply needed]
+File 6--Cyber Rights '97
+File 7--"Guido, the Cyber-Bodyguard" (press release)
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Aug 27, 1997   Volume 9 : Issue 64
+                           ISSN  1004-042X
+File 1--Wired News on the Politics of Netscape
+File 2--Sex is driving Internet progress, experts say (fwd)
+File 3--Commerce Dept encryption rules declared unconstitutional
+File 4--AOL Target of Credit Card Scam
+File 5--E-Mail Advertising (fwd)
+File 6--Novadigm Sues Marimba
+File 7--ADVISORY/Novadigm CEO Rebuffs Marimba
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Aug 31, 1997   Volume 9 : Issue 65
+                           ISSN  1004-042X
+File 1--Islands in the Clickstream -  Beyond the Edge
+File 2--crypto-logic US$1 million challenge
+File 3--CYPHERPUNKS PARTY -- invite to party in DC on September 6
+File 4--INET'98 Call for Papers (fwd)
+File 5--An "Underground" Book on Australian Hackers Burns the Mind
+File 6--Court docs in Salgado/"Smak" case
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Sep 3, 1997   Volume 9 : Issue 66
+                           ISSN  1004-042X
+File 1--High Profile Detainee Seeks Legal Help
+File 2--Kevin Mitnick Press Release
+File 3--Strangelovian pronouncements from the Hudson Institute
+File 4--EPIC Opposes EHI / Experian
+File 5--On Media Hacks and Hackers (Crypt reprint)
+File 6--Digital Highway Robbery (fwd)
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+
+Computer underground Digest    Sun  Sep 7, 1997   Volume 9 : Issue 67
+File 1--Free Speech Coalition v. Reno (text of CPPA decision)
+File 2--Court Upholds Child Pornography Prevention Act (ACLU fwd)
+File 3--Wired News on Child Porn Act Decision
+File 4--Boylovers, NAMBLA, and Net-vigilantes, from The Netly News
+File 5--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Sep 14, 1997   Volume 9 : Issue 68
+                           ISSN  1004-042X
+File 1--Mitnick Newsbytes Article (excerpt)
+File 2--Cryptography Victory: Encryption Rules Unconstitutional (ACLU fwd)
+File 3--Crypto Reform Bill Is Now a Changeling
+File 4--USACM APPLAUDS CALIFORNIA LEGISLATURE
+File 5--RSA Data Security Prevails in Federal Court
+File 6--The Executioner's Motto
+File 7--Cyber Rights Activists Convene in Austin, Texas
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Sep 17, 1997   Volume 9 : Issue 69
+                           ISSN  1004-042X
+File 1--Intro to CuD Special Issue on Net Education
+File 2--A Celebration of the Potential of the Net
+File 3--The Vacuity of Information
+File 4--Alternative News Revolution (oNline Christian Mag reprint)
+File 5--NII Award
+File 6--New Free Educational Sites
+File 7-- Multiculturalism without People
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Sep 21, 1997   Volume 9 : Issue 70
+                           ISSN  1004-042X
+File 1--Possible story--Clinton / pager interception
+File 2--Anti-Spam Bills in Congress
+File 3--Spammers Sued In Michigan (Chip Cryderman)
+File 4--Cyber Promotions tossed offline (fwd)
+File 5--ALERT: Call Congress on 9/22 to Stop Big Brother!!
+File 6--Fwd: Designing Effective Action Alerts for the Internet
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Sep 28, 1997   Volume 9 : Issue 71
+                           ISSN  1004-042X
+File 1--The Silicon Bomb (fwd)
+File 2--Freelancers Lose Copyright Claim for Works Put On E-databases
+File 3--SAFE crypto bill cracked again (fwd)
+File 4--Markup - HR 695 SECURITY AND FREEDOM THROUGH ENCRYPTION (SAFE)
+File 5--A few URLS addressing anti-spam legislation
+File 6--Texas Judge Enjoins "Spamming"
+File 7--'wanna Fight Big Brother? Politcal Action Kit available
+File 8--Anti-Terrorist Squad Orders Political Censorship Of The
+File 9--cDc GDU #22 (cult of the Dead cow fwd)
+File 10--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Oct 5, 1997   Volume 9 : Issue 72
+                           ISSN  1004-042X
+File 1--DEMOCRACY AND CYBERSPACE - parts 1-4
+File 2--Islands in the Clickstream: The Illusion of Control
+File 3--The X-Stop Files
+File 4--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Oct 12, 1997   Volume 9 : Issue 73
+                           ISSN  1004-042X
+File 1--"Net Law: How Lawyers Use the Internet" by Jacobsen
+File 2--Markup of H.R. 695  (SAFE) ACT
+File 3--Secret FBI Files Web Site
+File 4--Things to Do on the Web When You're Dead
+File 5--Agent Steal in Gray Areas
+File 6--Export Controls and Scare Tactics
+File 7--Netly News special report: "The Privacy Snatchers"
+File 8--Spam Analysis
+File 9--THE X-STOP FILES: The Truth Isn't Out There
+File 10--Mitnick Trial Date Set
+File 11--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Oct 15, 1997   Volume 9 : Issue 74
+                           ISSN  1004-042X
+File 1--DEMOCRACY AND CYBERSPACE - parts 5-8
+File 2--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Oct 19, 1997   Volume 9 : Issue 75
+                           ISSN  1004-042X
+File 1--Second Special Issue on Net-based Teaching
+File 2--"Analysis of Technology in Adult Education" (Excerpt)
+File 3--The Vacuity of Information
+File 4--Euro Commission / protection of minors in AV/Info services
+File 5--Education and the Net -- Read and Weep
+File 6--Internet Research and Information for Social Scientists
+File 7--Learning Technologies Postdocs wanted!
+File 8--Review of "Net Lessons: Net-based Projects for your Classroom"
+File 9--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Oct 22, 1997   Volume 9 : Issue 76
+                           ISSN  1004-042X
+File 1--AOL Class Action Suit Deadlines Extended
+File 2--Hoaxer (and a poor one) targets AOL
+File 3--AOL Says E-Mail Scare is a Hoax
+File 4--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Oct 26, 1997   Volume 9 : Issue 77
+                           ISSN  1004-042X
+File 1--Telerights II - Current Digital Copyright Controversy
+File 2--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Oct 29, 1997   Volume 9 : Issue 78
+                           ISSN  1004-042X
+File 1--Sen. Lott's comments on Encryption (Cong. Record)
+File 2--NPR Reporter Indicted For Trading Porn on the Net
+File 3--Hack into Yale
+File 4--Mitnick Might Get Computer Use
+File 5--IRISS'98 Internet Research and Information for Social (fwd)
+File 6--Re: In "Web things to do when you're dead" (CuD 9.73)
+File 7--Electronic Frontier Canada opposes Internet content control
+File 8--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Nov 2, 1997   Volume 9 : Issue 79
+                           ISSN  1004-042X
+File 1--RC5 Cracked -  The unknown message is...  (fwd)
+File 2--Justice Dept charges Microsoft w/violating 199 order
+File 3--Microsoft's reaction the the DOJ lawsuit
+File 4--Small Minds Think Alike
+File 5--Illinois Library Decides Not to Filter Net
+File 6--Gullibility Virus Warning
+File 7--Bandwidth Turnabout: Not Just Fair Play But Future Wave?
+File 8--Islands in the Clickstream
+File 9--Kashpureff in custody. (fwd)
+File 10--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Tue  Nov 4, 1997   Volume 9 : Issue 80
+                           ISSN  1004-042X
+File 1--WILL "HATE SPEECH" BECOME 5th HORSEMAN OF THE  APOCALYPSE?
+File 2--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Thu  Nov 6, 1997   Volume 9 : Issue 81
+                           ISSN  1004-042X
+File 1--The FCC Wants V-Chip in PCs too
+File 2--Text of FCC "Video Blocking Proposal"
+File 3--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Nov 9, 1997   Volume 9 : Issue 82
+                           ISSN  1004-042X
+File 1--Fwd: study of women hackers
+File 2--Re: Governance in Cyberspace
+File 3--Re: CuD, #9.77, - Digital Copyright Controversy
+File 4--The Internet as scab
+File 5--Police forsee 'scary' electronic crimes
+File 6--Invitation to try cyberjournal list
+File 7--Re: "HATE SPEECH" / 5th HORSEMAN OF THE  APOCALYPSE?
+File 8--Warren Coucilman Wants Library Porn Surfers Names Made Public
+File 9--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Nov 12, 1997   Volume 9 : Issue 83
+                           ISSN  1004-042X
+File 1--The Mind of a Censor
+File 2--States Won't appeal ALA v. Pataki, et. al
+File 3--Response to Bell in #9.82
+File 4-- Does Technology Set Us Free?
+File 5--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Nov 16, 1997   Volume 9 : Issue 84
+                           ISSN  1004-042X
+File 1--CuD #9.82 - re: Internet as Scab
+File 2--"Who Watches the Watchmen: Net Content Rating Systems
+File 3--XS4ALL refuses Internet tap
+File 4--Angela Marquardt on trial again
+File 5--Cyber-Liberties Update, October 17, 1997
+File 6--Book Review - The Electronic Privacy Papers
+File 7--cDc Global Dominatrix Update #23
+File 8-- Congressional Action and New Bills
+File 9--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Nov 19, 1997   Volume 9 : Issue 85
+                           ISSN  1004-042X
+File 1--BLOCKING SOFTWARE BY PUB LIBRARIES IS UNCONSTITUTIONAL
+File 2--Re: Cu Digest, #9.83, Wed 12 Nov 97
+File 3--Reply to Bell's forthcoming post
+File 4--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Nov 23, 1997   Volume 9 : Issue 86
+                           ISSN  1004-042X
+File 1--New Internet Censorship Bill Ignores Landmark USSC Ruling
+File 2--S 1482 - Ammendment to Communications Act of 1934
+File 3--CYBERPATROL: The Friendly Censor
+File 4--ADDITIONS TO THE JOSEPH K GUIDE TO TECH TERMINOLOGY:
+File 5--Fwd: (Fwd) Common Control DLL and MSIE4.0 distribution
+File 6--Mitnick Legal Defense Fund
+File 7--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Nov 26, 1997   Volume 9 : Issue 87
+                           ISSN  1004-042X
+File 1--CyberPatrol, The Friendly Censor
+File 2--Ghost Stories - Hudson Institutes info-war Hallucination (Crypt)
+File 3--USACM Calls on Pres Clinton to Veto HR 2265
+File 4--RE: Microsoft's licensing (Cu Digest, #9.86)
+File 5--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Nov 30, 1997   Volume 9 : Issue 88
+                           ISSN  1004-042X
+File 1--Sen. Coats' Remarks (Fwd)
+File 2--American Library Association & "New CDA" (fwd)
+File 3--School District "Benches" Cheerleader Site
+File 4--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Dec 3, 1997   Volume 9 : Issue 89
+                           ISSN  1004-042X
+File 1--Censorware Summit agenda (December 1-3)
+File 2--"Halting the Hacker" by Pipkin
+File 3--No Blocking in Canadian Libraries  (fwd)
+File 4--NETFUTURE--something new  (Net & Education)
+File 5--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Dec 14, 1997   Volume 9 : Issue 90
+                           ISSN  1004-042X
+File 1--Online Copyright Cases Can Simply Be Difficult.
+File 2--The Digital Citizen: More Nonsense from *Wired*
+File 3--XS4ALL files complaint with Chief Public Prosecu
+File 4--"Hackers" hit Yahoo.com - leave "ransom" note
+File 5--Mitnick Supporters Deny Yahoo Hack
+File 6--Child Protection and Parental Empowerment / Interactive Media
+File 7--Technological Breakthrough  (humor)
+File 8--Cu Digest Header Info (unchanged since 7 Dec, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Wed  Dec 17, 1997   Volume 9 : Issue 91
+                           ISSN  1004-042X
+File 1--Text of S 1482: "No Electronic Theft Act"
+File 2--Internet Risks and Liability
+File 3--Policy Post 3.15 -- CDT, EFF, CPSR Call on FCC to Protect
+File 4--The Big Lie : AAS editorial on "Cyberspace Issues"
+File 5--Computer humor
+File 6--Cu Digest Header Info (unchanged since 7 May, 1997)
+
+====================================================================
+====================================================================
+
+
+Computer underground Digest    Sun  Dec 21, 1997   Volume 9 : Issue 92
+                           ISSN  1004-042X
+File 1--UK - Have Your Say to the Government! (fwd)
+File 2--Urgent Action: WA state HOUSE BILL 2209
+File 3--Book Review: "Internet Dreams" by Stefik
+File 4--No Electronic Theft Act; who's to judge?
+File 5--Cyber Patrol to Block Hate Speech
+File 6--SPECIAL REPORT: Censorware in the Stacks
+File 7--Islands in the Clickstream - December 21, 1997
+File 8--The Censorware Project
+File 9--Cu Digest Header Info (unchanged since 7 May, 1997)
