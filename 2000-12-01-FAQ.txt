@@ -1,0 +1,227 @@
+Cu Digest Frequently Asked Questions
+
+
+FAQs about Cu Digest
+
+(1 December, 2000)
+
+The primary question we have been asked in the last year is:
+"Does CuD still publish?" The answer is NO.
+Why? Time constraints, numerous other sources for similar information,
+and changes in editors' interests. It's fun for a decade, but time to
+move on.
+(jt - 1 December, 2000)
+
+=======
+
+We're asked the following questions often enough that we compiled
+the following list. If you have additional questions, let us
+know, and we'll add them.
+Additional information can be obtained by dropping a note to
+Jim and Gordon at cu-digest@cu-digest.org   
+or mailing us at Cu-Digest/Department of Sociology/Northern Ill.
+University/DeKalb, IL  60115
+
+QUESTION 1: WHAT IS CuD?
+QUESTION 2: WHAT IS THE GOAL OF CuD?
+QUESTION 3: WHO EDITS CUD?
+QUESTION 4: WHY THE LABEL *UNDERGROUND*?
+QUESTION 5: IS CuD "PRO-HACKER?"
+QUESTION 6: WHAT KINDS OF THINGS DOES CuD PUBLISH?
+QUESTION 7: HOW CAN I PUBLISH IN CUD?
+QUESTION 8: HOW DO I SEND NEWS ARTICLES IF I DON'T HAVE PERMISSION?
+QUESTION 9: SHOULD I QUOTE OTHER POSTERS WHEN RESPONDING TO AN
+QUESTION 10: WHO READS CuD?
+QUESTION 11: HOW DO I RECEIVE CuD?
+QUESTION 12: CAN I GET BACK ISSUES OF CuD ON DISK OR ON PAPER?
+QUESTION 13: HOW DO I SIGN OFF CUD?
+QUESTION 14: WHERE CAN I GET ELECTRONIC BACK ISSUES OF CUD?
+QUESTION 15: WHY DOES CuD REPRINT MATERIAL?
+QUESTION 16: HOW DO I USE FTP?
+QUESTION 17: WHY DOES CuD SUBJECT/FROM/DATE LINE SOMETIMES NOT MATCH THE REAL DATE?
+QUESTION 18: DOES CuD ACCEPT ANONYMOUS POSTINGS?
+QUESTION 19: MAY WE REPRODUCE CuDS?
+QUESTION 20: IS NARCISSISM OK?
+QUESTION 21: WHAT IS THAT GRAPHIC ON THE TOP OF CuD's HOMEPAGE??
+QUESTION 22: HOW DO I CONTACT CuD EDITORS???
+QUESTION 23: DOES CuD ACCEPT ADS??
+QUESTION 24: WHY DOES CuD SOMETIMES NOT APPEAR FOR A FEW MONTHS?
+
+QUESTION 1: WHAT IS CuD?
+
+ANSWER 1:: Cu-Digest, or CuD, is a weekly on-line electronic journal/news digest. CuD began at the suggestion and encouragement of Pat Townson (moderator of Telecomm Digest) in March 1990. The federal indictments of Craig Neidorf (in the "PHRACK case" in Chicago) and Len Rose (in Baltimore) generated more posts than Pat could manage, and the nature of posts exceeded his Digest's Usenet charter. Jim Thomas and Gordon Meyer volunteered to collect the surplus posts, and Pat helped get it started. It was originally conceived as an interim forum that would quietly depart after a few months. Volume 1, in fact, was originally intended as the first and final volume in Aust '90, but a week later Volume 2 appeared because of the continuous material. As of this writing, CuD is publishing Volume 6. Each issue is about 40-50 K. Computer underground Digest is intended as a forum for the discussion of legal, ethical, social, and other issues regarding computerized information and communications. We welcome contributions reflecting diversity of thought and perspective.
+
+QUESTION 2: WHAT IS THE GOAL OF CuD?
+
+ANSWER 2:: The broad goal of CuD is to provide a forum for discussion and debate of the computer telecommunications culture. This culture especially includes, but is not limited to, the unique world of BBSes, Internet, and public access systems. We focus especially on alternative groups that exist outside of the conventional net community. We try to focus on a broad range of issues that include news, debates of legal, ethical, and technical issues, and scholarly research of relevance to a broad audience of professionals and lay persons. Other than providing a context for an article if necessary, the moderators *DO NOT* add commentary of agreement or disagreement. We see our role as one of facilitating debate, although we may take part in discussions in separate articles.
+
+QUESTION 3: WHO EDITS CUD?
+
+ANSWER 3: Jim Thomas publishes CuD from Northern Illinois University. Gordon Meyer is former co-editor. Gordon Meyer's MA thesis, "The Social Organization of the Computer Underground", was the first systematic attempt to place the social world of "phreaks, hackers, and pirates" in a context that looked at the culture, rather than the "deviance", of alternative uses of computer use. Gordon is currently a system engineer with a large national firm in the Chicago area. Jim Thomas, a professor of sociology/criminology at Northern Illinois University, is a prison researcher and qualitative methodologist. Gordon lured him into the "underground" world 1987, and he has since become interested in the legal and cultural issues of computer use.
+     Gordon can be reached at:  gmeyer@sun.soci.niu.edu
+                           http://www.soci.niu.edu/~gmeyer
+
+     Jim can be reached at:     cudigest@sun.soci.niu.edu
+                           http://www.soci.niu.edu/~jthomas
+QUESTION 4: WHY THE LABEL *UNDERGROUND*?
+
+ANSWER 4: For some, the term underground connotes malice and a dark side of human activity. For others, including the CuD editors, it denotes alternative to conventional media. An electronic digest is an alternative to hard-copy forms of information sharing. Like the "underground," or "alternative" press of the counterculture of the 1960s or "underground music" or radio of the 90s, the "computer underground" refers to types of behavior or characteristics of a subculture that are unique, cohesively identifiable, possessing norms, roles, and social expectations that define participants, and are considered socially marginal by the dominant culture. Like the term "hacker," there were originally no negative connotations associated with "underground" when the term was first used. The name "Computer underground Digest" was suggested with a bit of irony prior to the first issue (how, after all, can a conventional digest that is publicly accessible be "underground?"). The name also is a play on the title of Gordon's M.A. Thesis, "The Social Organization of the 'Computer Underground'." Early discussions to change the name seemed impractical once the "CuD" monogram was established, and the name stands.
+
+QUESTION 5: IS CuD "PRO-HACKER?"
+
+ANSWER 5: The term "hacker" has been grossly distorted by the media and law enforcement personnel, who use it synonymously with "computer intruders." CuD editors have repeatedly stated their own opposition to all forms of predatory and malicious behavior, including malicious computer intrusion. We accept Bob Bickford's definition of a "hacker" as someone who derives joy from discovering ways to exceed limitations. Hackers, in the original sense, referred to explorers who solved problems and exceeded conventional limits through trial and error in situations in which there were no formal guidelines or previous models from which to draw. In this sense, CuD is quite "pro-hacker," and we prefer the term "cracker" for malicious practitioners of the hacking craft. Exploration is good, predation is not. However, CuD encourages articles from all perspectives and attempts to provide a forum for reasoned discussion on all sides of an issue. CuD opposes predatory behavior by any group, whether computer enthusiasts or those who oppose them. CuD is for civil liberties and for civilizing the electronic frontier by securing rights assumed in other social realms and by advocating protection from all forms of abuse.
+    CuD attempts to document the computer culture and ease the
+    transition as the culture moves toward the mainstream with
+    articles that bridge the cultural gaps as telecomputing
+    becomes an increasingly important part of daily life.  The
+    political, legal, economic, and social impact of changes in
+    the new technology is poorly covered elsewhere.  We see our
+    goal as addressing the impact of these changes and providing
+    alternative interpretations to events.
+QUESTION 6: WHAT KINDS OF THINGS DOES CuD PUBLISH?
+
+ANSWER 6: We encourage submissions on a broad range of topics, from articulate short responses and longer opinion pieces to book reviews, summaries of research, and academic papers. We especially encourage:
+1. Reasoned and thoughtful articles on economic, ethical,
+legal, and other issues related to the computer underground.
+
+2. Verbatim printed newspaper or magazine articles
+containing relevant stories. If you send a transcription of
+an article, be sure it contains the source *and* the page
+numbers so references can be checked. Also be sure that no
+copyright protections are infringed.
+
+3. Public domain legal documents (affidavits, indictments,
+court records) that pertain to relevant topics.
+
+4. General discussion of news, problems, or other issues
+that contributors feel should be aired.
+
+5. Unpublished academic papers, "think pieces," or research
+results are strongly encouraged. These would presumably be
+long, and we would limit the size to about 800 lines (or 40
+K). Longer articles appropriate for distribution would be
+sent as a single file and so-marked in the header.
+
+6. Book reviews that address the social implications of
+computer technology.
+
+7. Bibliographies (especially annotated), transcripts of
+relevant radio or television programs (it is the poster's
+responsibility to assure that copyrights are not violated),
+and announcements and reports of relevant conferences and
+conference papers are strongly encouraged.
+
+8. Announcements for conferences, meetings, and other events
+as well as summaries after they've occurred.
+
+9. Suggestions for improvement, general comments or
+criticisms of CuD, and ideas for articles are especially
+helpful.
+
+10. Interviews with relevant people involved in law, policy,
+culture, or some other aspect of computer culture.
+
+11. Conference panel transcripts relevant to computer
+culture
+
+Although we encourage debate, we stress that ad hominem
+attacks or personal squabbles will not be printed. Although
+we encourage different opinion, we suggest that these be
+well-reasoned and substantiated with facts, citations, or
+other "evidence" that would bolster claims.  Although CuD is
+a Usenet group, it does not, except in the rarest of cases,
+print post-response-counterresponse in the style common
+among most other groups.
+
+WE DO NOT PUBLISH: 1) flames, 2) short "me too" blurbs, 3)
+Usenet style responses of 5-line knee-jerk opinion; 5)
+articles in bad taste.
+QUESTION 7: HOW CAN I PUBLISH IN CUD?
+
+ANSWER 7: To submit an article, simply send it to the editors at cudigest@sun.soci.niu.edu. If you receive CuD on Usenet, you can use your favorite reply command and your response will come directly to the editors and will not be distributed across the nets. If you do not have an article, but know of people who do, encourage them to send their work along. Although CuD is a forum for opposing points of view, we do prefer that articles a) be written in English, b) make sense, and c) are not out-dated.
+    Submissions should be formatted at 70 characters per line
+    and should include a blank space separating individual
+    paragraphs. Submissions may be edited for spelling and
+    format, but no other changes are ever intentionally made
+    without permission. Sigs are also removed to save bandwidth.
+
+    If you do not have internet access, you can send an article
+    on an IBM compatible floppy disk to: Cu-Digest, Dept. of
+    Sociology, Northern Illinois University, DeKalb, IL 60015.
+QUESTION 8: HOW DO I SEND NEWS ARTICLES IF I DON'T HAVE PERMISS ION?
+
+ANSWER 8: Fair use doctrine allows reasonable quotes to be used. So, cite the most relevant or crucial parts and summarize the rest. Very short articles, however, may generally be reproduced without permission.
+
+QUESTION 9: SHOULD I QUOTE OTHER POSTERS WHEN RESPONDING TO AN ARTICLE?
+
+ANSWER 9: ONLY IF ABSOLUTELY NECESSARY. Good writing does not require excessive quoting. Sometime's it's necessary, but it should be avoided. In addition to being generally bad writing, CuD simply lacks room for repititous back-and-forth comments/rejoinders. Parsimony should rule.
+QUESTION 10: WHO READS CuD?
+
+ANSWER 10: As a conservative estimate, CuD currently reaches about 500,000+ readers each issue. About two percent of the readership receives CuD by direct E-mail. The rest read it from Usenet's comp.society.cu-digest, or obtain it from BBSes, public access systems (such as GEnie or America On-Line), and the ftp/www sites. Judging from a survey we took in 1990 and from the feedback we receive from readers, CuD readers cut across occupational, ideological, and age lines. The overwhelming majority (about 80 percent) of the readership is college graduates. About half is computer professionals or in related fields. The remaining half is distributed among a variety of professions (attorneys, journalists, academicians, law enforcement, students) and territory (the mailing list includes every continent.
+
+QUESTION 11: HOW DO I RECEIVE CuD?
+
+ANSWER 11: If you're reading this, you've already received it, and most likely you can just keep doing whatever you did to get it. If you aren't sure what you did, you can do any of the following:
+    CuD is *FREE*. It costs nothing. The editors make no profit,
+    we take no money, we accept no gifts (but we drink Jack
+    Daniels and lots of it, should you run into us in a pub). To
+    receive CuD, you can access it from many BBSes and most
+    public access systems. Or, if you have Usenet access, you
+    can obtain it by subscribing through your local system to
+    comp.society.cu-digest.
+
+    If you do not have Usenet access, you can be placed on a
+    mailing list by dropping a short note to:
+    cu-digest-request@weber.ucsd.edu with the subject header: SUB CuD and
+    a message that says:
+    SUB CuD
+QUESTION 12: CAN I GET BACK ISSUES OF CuD ON DISK OR ON PAPER ?
+
+ANSWER 12: No, at least not from the editors. Unfortunately, the size of back issues and the number of requests is prohibitive, and we can no longer send out back issues in any form.
+QUESTION 13: HOW DO I SIGN OFF CUD?
+
+ANSWER 13: By sending a message that says: UNSUB in the subject line to: cu-digest-request@weber.ucsd.edu
+
+QUESTION 14: WHERE CAN I GET ELECTRONIC BACK ISSUES OF CUD?
+
+ANSWER 14: On the ftp sites. Current information on ftp sites and public access systems is in the CuD header. Or, try: http://www.soci.niu.edu/~cudigest
+QUESTION 15: WHY DOES CuD REPRINT MATERIAL FROM USENET THAT USENET READERS HAVE PROBABLY ALREADY SEEN?
+
+ANSWER 15: CuD is read by many non-Usenet readers. Bitnet readers, for example, obtain CuD from the mailing list and rarely participate in Usenet forums. Many readers have no net access at all, and they read CuD from public access systems such as GEnie, The Well, or Compuserve, or from their favorite BBS. Therefore, we try to provide non-net readers with as much news as possible.
+
+QUESTION 16: HOW DO I USE FTP?
+
+ANSWER 16: Ask your local Sysad. If you have a system that allows ftp transfers, we recommend Brendan Kehoe's ZEN AND THE ART OF THE INTERNET or Ed Krol's THE WHOLE INTERNET as quick primer on ftp and other Internet/Usnet tricks.
+
+QUESTION 17: WHY DOES CuD SUBJECT/FROM/DATE LINE SOMETIMES NOT MATCH THE REAL DATE?
+
+ANSWER 17: In order to be read by most mailers as a digest, posts must be divided by a marker (i.e., a space and a series of dashes) and three lines indicating From:, Subject:, and Date:. We often must add these manually, because they may not be included properly in the original post, or we may not receive the posts in electronic form. When reposting articles from other sources, we try when possible to use the author in the From: line (rather than the moderators) to allow respondants to communicate directly with the original author by (on Unix) hitting "r" or "R". When a poster requests anonymity, we change both the From: and Date: lines.
+
+QUESTION 18: DOES CuD ACCEPT ANONYMOUS POSTINGS?
+
+ANSWER 18: Yes. As we indicated in CuD 1.00 (1990), there are many reasons for anonymity, especially if one fears employment repercussions. However, we STRONGLY DISCOURAGE anonymous postings without good cause.
+
+QUESTION 19: MAY WE REPRODUCE CuDS?
+
+ANSWER 19: CuDs may be distributed as long as they are not sold, compiled as part of a CD collection and sold, or distributed for money. They may not be reproduced hard-copy and sold. However, it is perfectly acceptable to upload them to BBSes or public access systems, even if these are "pay" boards. CuDs may also be given away, sent to friends, Net-fed to other systems, or run-off hard copy and given away. Some articles, however, are copyright by the authors with explicit limitations, and for these articles, the authors should be contacted. When distributing or citing, CuDs may not be altered, and attribution (when quoting) should be given to the author and to CuD.
+
+QUESTION 20: IS NARCISSISM OK?
+
+ANSWER 20: Only if you keep it to yourself.
+
+QUESTION 21: WHAT IS THAT GRAPHIC ON THE TOP OF CuD's HOMEPAGE??
+
+ANSWER 21:The graphic is an NSI domain map, circa 1993. It was obtained from PC-EXEC BBS in Milwaukee. There was no other information about it, and the original uploader no long subscribes to the BBS.
+
+QUESTION 22: HOW DO I CONTACT THE EDITORS?
+
+ANSWER 22: Just click on the address below.
+Any questions, drop me a note. Jim Thomas - cudigest@cu-digest.org
+
+QUESTION 23: DOES CuD ACCEPT ADS??
+
+ANSWER 23:No, CuD does NOT accept advertising or engage in any commercial-oriented enterprise. We do not review products, publish commercial press releases, or serve as a conduit for corporate announcments. However, we do review books, publish legitimate conference information, and announce employment opportunities.
+
+QUESTION 24: WHY DOES CuD SOMETIMES NOT APPEAR FOR A FEW MONTHS?
+
+ANSWER 24:The editors publish CuD as a public service, and once in a while real-world obligations curtail available time. The most recent hiatas, from October, 1999 to March 2000, were the result of academic research obligations and deadlines. This will likely happen 
